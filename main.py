@@ -18,3 +18,4 @@ try:
     print(f"The probability that you will miss your graduation ceremony ---> {result}")
 except ValueError:
     print("Accepted value will only be integer, Please enter only integer value")
+
