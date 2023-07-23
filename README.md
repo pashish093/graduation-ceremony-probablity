@@ -2,10 +2,10 @@
 
 # Run a code
 
-To Run a code , simply run python main.py in your terminal. Make sure python is installed in your machine.
-Version used : Python 3.8
+To Run a code , simply run python main.py in your terminal. Make sure Python is installed on your machine.
+The version used: Python 3.8
 
-It will ask for user input for Nth day, Make sure its a integer value.
+It will ask for user input for the Nth day, Make sure its an integer value.
 
 # Code Flow
 
